@@ -223,6 +223,7 @@
     "View all treatments": "Показать все события терапии",
     "Enable Alarms": "Включить тревоги",
     "Pump Battery Change": "Замена батареи помпы",
+    "Pump Battery Age": "Возраст батареи помпы",
     "Pump Battery Low Alarm": "Низкий уровень заряда помпы",
     "Pump Battery change overdue!": "Пропущена замена батареи помпы!",
     "When enabled an alarm may sound.": "При включении сигналы будут слышны.",
